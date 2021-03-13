@@ -1,4 +1,4 @@
-# zirve
+# video
 
 ## Project setup
 ```
